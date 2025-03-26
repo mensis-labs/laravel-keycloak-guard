@@ -1,6 +1,6 @@
 {
-    "name": "robsontenorio/laravel-keycloak-guard",
-    "description": "🔑 Simple Keycloak Guard for Laravel",
+    "name": "mensis-labs/laravel-keycloak-guard",
+    "description": "🔥 Simple Keycloak Guard for Laravel",
     "keywords": [
         "laravel",
         "keycloak"
@@ -10,6 +10,9 @@
     "authors": [
         {
             "name": "Robson Tenório"
+        },
+        {
+            "name": "Mensis Labs"
         }
     ],
     "minimum-stability": "dev",
